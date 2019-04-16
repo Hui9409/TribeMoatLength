@@ -14,15 +14,15 @@ Agu is a cursed place with conflicts of sources between tribes. To avoid the  in
 
   ​	. . .  . . .
 
-  $abcd$ compose a tribe, where $a$ and $b$ is connected horizontally, $a$ and $c$ is connected vertically, and $b$ and $d$ is connected diagonally. More importantly, there's no such tribe of which grids have unoccupied grids
+  $abcd$ compose a tribe, where $a$ and $b$ is connected horizontally, $a$ and $c$ is connected vertically, and $b$ and $d$ is   connected diagonally. More importantly, there's no such tribe of which grids have unoccupied grids
 
-​	surrounded, such as:
+  ​	surrounded, such as:
 
-​		. . a b c . . . 
+  ​		. . a b c . . . 
 
-​		. d . .  e . . . 	
+  ​		. d . .  e . . . 	
 
-​		. . f  g .  . . . 
+  ​		. . f  g .  . . . 
 
 - The length of the moat
 
@@ -36,7 +36,7 @@ Agu is a cursed place with conflicts of sources between tribes. To avoid the  in
 
   ​	.  . . .  . .
 
-  $abcd$ is a tribe with 16 sides($a$, $b$, $c$, $d$ have four sides), in which the number of exposed is 12. Each exposed side need 1 unit length of moat, therefore the length of the moat needed is 12.
+  $abcd$ is a tribe with 16 sides($a$, $b$, $c$, $d$ have four sides), in which the number of exposed is 12. Each exposed side  need 1 unit length of moat, therefore the length of the moat needed is 12.
 
 **Function Description:**
 
